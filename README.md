@@ -6,7 +6,7 @@ TBD
 
 ## Description
 
-[Trello](http://hipchat.com) clone being built with MongoDB, Vuejs, React, NodeJS.
+[HipChat](http://hipchat.com) clone being built with MongoDB, Vuejs, React, NodeJS.
 
 I am a fan of Software Craftmanship, TDD, BDD and CI practices; therefore this project's main goal is to follow 
 all the coding standard and best practices.
