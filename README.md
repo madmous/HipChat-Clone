@@ -1,1 +1,1 @@
-[HipChat Clone](https://github.com/Madmous/Trello-Clone/tree/develop/client/hipchat) was moved. Check my huge mono repo that will contain a bunch of application andm icro services.
+[HipChat Clone](https://github.com/Madmous/Trello-Clone/tree/develop/client/hipchat) was moved. Check my huge mono repo that will contain a bunch of application and micro services.
